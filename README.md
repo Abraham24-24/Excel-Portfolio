@@ -26,7 +26,8 @@ Each project demonstrates data cleaning, transformation, analysis, and dashboard
 - Created monthly sales trend analysis
 - Designed an Excel dashboard to visualize category performance
 
-📁 Folder: `Project_1_Sales_Performance`
+📁 Folder: [Project_1_Sales_Performance](./Project_1_Sales_Performance)
+
 
 ---
 
