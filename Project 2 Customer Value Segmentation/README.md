@@ -22,4 +22,5 @@ Customers were segmented into High, Medium, and Low value groups based on positi
 - Low value customers represent the largest segment
 - Tops and Dresses categories have strong high-value customer presence
 - Segment distribution varies significantly across product classes
+remove project 2
 
