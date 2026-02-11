@@ -37,7 +37,8 @@ Each project demonstrates data cleaning, transformation, analysis, and dashboard
 - Built pivot tables for product class analysis
 - Designed a dashboard to visualize customer segment distribution
 
-📁 Folder: `Project 2 Customer Value Segmentation`
+📁 Folder: [Project_2_Customer_Value_Segmentation](./Project_2Customer_Value_Segmentation)
+
 
 ---
 
