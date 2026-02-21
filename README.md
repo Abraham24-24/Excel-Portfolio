@@ -42,6 +42,10 @@ Each project demonstrates data cleaning, transformation, analysis, and dashboard
 
 
 ---
+### Project 3: Customer Revenue Intelligence
+- Revenue analysis by product, membership type, and region
+- Pivot tables + executive dashboard + insights sheet
+📁 Folder: [Project_3_Customer_Revenue_Intelligence](./Project_3_Customer_Revenue_Intelligence)
 
 ## About
 
